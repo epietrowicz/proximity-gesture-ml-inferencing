@@ -1,0 +1,2 @@
+# Proximity Gesture Detection Machine Learning Inferencing Firmware
+This firmware is used in the proximity gesture detection project. It uses the Particle ecosystem and Edge Impulse to detect gestures near a VCNL4040 proximity and light sensor. This codebase serves as the final inferencing example.
