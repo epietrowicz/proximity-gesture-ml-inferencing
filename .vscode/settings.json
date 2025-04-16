@@ -1,0 +1,9 @@
+{
+    "particle.targetPlatform": "b5som",
+    "particle.firmwareVersion": "6.3.0",
+    "editor.formatOnSave": true,
+    "files.associations": {
+        "ostream": "cpp",
+        "print": "cpp"
+    }
+}
